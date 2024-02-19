@@ -10,7 +10,8 @@
 |  1 | J JST XH Vertical (3w)                    | J2      | 455-B3B-XH-A-ND               |
 |  1 | L Ferrite 120R@100Mhz                     | L1      | 240-2383-1-ND                 |
 |  2 | R 1K 0.125W (0805)                        | R1-R2   | RMCF0805FT1K00CT-ND           |
-|  1 | R 5.1K 0.125W (0805)                      | R3      | RMCF0805FT5K10CT-ND           |
+|  2 | R 3.3K 0.125W (0805)                      | R3-R4   | RMCF0805FT3K30CT-ND           |
+|  1 | R 5.1K 0.125W (0805)                      | R5      | RMCF0805FT5K10CT-ND           |
 |  1 | U PIC16F1454 (SOIC-14)                    | U1      | PIC16F1454-I/SL-ND            |
 |  1 | U DS2482S-100+ (SOIC-8)                   | U2      | DS2482S-100+-ND               |
 |  1 | U MIC2091-1YM5-TR (SOT23-5)               | U3      | 576-3891-1-ND                 |
