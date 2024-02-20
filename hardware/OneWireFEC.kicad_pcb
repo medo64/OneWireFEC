@@ -1052,7 +1052,7 @@
         (effects (font (size 0.8 0.6) (thickness 0.15)) (justify mirror))
       (tstamp 9119b604-3ff4-4343-b49b-e74eae2ec454)
     )
-    (fp_text value "AP22652" (at 0 -2.4 -360) (layer "B.SilkS") hide
+    (fp_text value "MIC2091" (at 0 -2.4 -360) (layer "B.SilkS") hide
         (effects (font (size 0.8 0.6) (thickness 0.15)) (justify mirror))
       (tstamp 0543643a-2647-4a75-9cce-689459bc022d)
     )
